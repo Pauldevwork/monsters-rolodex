@@ -6,7 +6,7 @@ I use an api for the monsters (https://jsonplaceholder.typicode.com/users) (http
 
 I filter by id, name and email so I only extract that data from the api.
 
-This was a fun project, it taught me how class components and functional components work and also the different ways to call an api, i.e life cycles in classes vs the functional aysnc call.
+This was a fun project, it taught me how class components and functional components work and also the different ways to call an api, i.e life cycles in classes vs the functional aysnc api call.
 
 what I got from this project was functional components are by far the better way to go when building with React.js, class components seem to be alot more complex, yes, hooks are confusing at first,
-but once you get your head around them they are more efficent for typing and you do not have to do so many mental gymnastics to use them.
+but once you get your head around them they are more efficent for typing and you do not have to do so much mental gymnastics to use them.
