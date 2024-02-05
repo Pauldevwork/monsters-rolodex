@@ -14,3 +14,12 @@ but once you get your head around them they are more efficient for typing and yo
 Structuing my projects.
 It was a great simple project because it taught me how to manage my project files and folders (seperation of concerns). It has reinforced in me the absloute importance of orgnisation and structure and the overall
 architecture of a project.
+
+My DOM tree is structured as follows
+
+       App
+        |
+|-------|---------|
+H1  Cardlist  Searchbox
+        |  
+      Cards
