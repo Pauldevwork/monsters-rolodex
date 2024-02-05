@@ -17,9 +17,4 @@ architecture of a project.
 
 My DOM tree is structured as follows
 
-       App
-        |
-|-------|---------|
-H1  Cardlist  Searchbox
-        |  
-      Cards
+![Screenshot 2024-02-05 221527](https://github.com/Pauldevwork/monsters-rolodex/assets/146097501/3a11e3cd-9a5b-4e8d-bdfd-50b71e24ab74)
